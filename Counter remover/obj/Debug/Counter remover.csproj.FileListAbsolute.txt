@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Counter remover\bin\Debug\Counter remover.exe.config
+C:\Users\Usuario\source\repos\Counter remover\bin\Debug\Counter remover.exe
+C:\Users\Usuario\source\repos\Counter remover\bin\Debug\Counter remover.pdb
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter remover.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter_remover.Form1.resources
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter_remover.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter remover.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter remover.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter remover.exe
+C:\Users\Usuario\source\repos\Counter remover\obj\Debug\Counter remover.pdb
